@@ -52,11 +52,8 @@ Lok Kala AI is not just an art platform—it’s a cultural innovation hub. It e
 
 📹 Prototype & Demo
 
-Presentation Deck: (to be attached/uploaded)
+ Prototype: <img width="1476" height="716" alt="image" src="https://github.com/user-attachments/assets/2f4108e7-5471-4b27-9e7e-0b3422d6ebca" />
 
-3-Minute Video Demo: (to be added)
-
-Live Prototype: 
 
 📌 Future Roadmap
 
